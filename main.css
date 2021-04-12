@@ -112,3 +112,7 @@
         .fa fa-map-maker {
             font-size: 17px;
         }
+        
+        .képek:hover {
+            transition: all 0.5s ease-in-out;
+        }
